@@ -1,6 +1,6 @@
-token=NDg3NjQ1MDUyMDA1Mzg0MjAy.DnnCOg.nchRixdCmEQ0J-jMQzd-pp0Z8k8
-owner=450711003324350485 
-prefix=2
-game=Skillful Community.
+token=NTA5NDUwOTc2MTg1NDE3NzQw.DsODTA.GkUnktm8bp1fFC_6gycuYqXyqAQ
+owner=497073818913734662
+prefix=4
+game=OverPower Server.
 stayinchannel=true
 songinstatus=true
